@@ -25,6 +25,3 @@ This extension is not directed to children and collects no personal information.
 
 ## Changes to This Policy
 If this policy changes, we will update this page and the “Last updated” date.
-
-## Contact
-If you have questions, contact: your-email@example.com
